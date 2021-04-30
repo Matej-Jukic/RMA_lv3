@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Birds Counter</string>
+    <string name="red_bird">Red Bird</string>
+    <string name="green_bird">Green Bird</string>
+    <string name="blue_bird">Blue Bird</string>
+    <string name="yellow_bird">Yellow Bird</string>
+    <string name="reset">RESET</string>
+    <string name="bird_count">BIRD COUNT</string>
+
+</resources>
